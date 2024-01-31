@@ -7,4 +7,8 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'myproject';
+  call()
+  {
+    alert("I Am Doing My HomeWork In College")
+  }
 }
